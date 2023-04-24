@@ -1,7 +1,8 @@
 # Author: Thabang Thubane
 # Description: This program implements three page replacement algorithms (FIFO, LRU, and OPT) 
 # Usage: To run the program, execute the following command>>> python paging.py [number of page frames] [num pages in ref str]
-# For example: python paging.py 3 100  >>>>>  This will simulate the three page replacement algorithms with a virtual memory of 3 pages and a reference string of 100 pages.
+# For example: python paging.py 3 100  >>>>>  This will simulate the three page replacement algorithms with a virtual memory
+# of 3 pages and a reference string of 100 pages.
 # Date: April 24, 2023
 
 import numpy as np
